@@ -36,4 +36,5 @@ Additional Notes:
 		* allow user to select type & amount of filters that they'd like to apply
 		* add more filter options
 		* implement a GUI for the user, instead of command-line entry.
+		* add more error handling
 
